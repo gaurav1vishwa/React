@@ -1,0 +1,12 @@
+body{
+  background: yellow;
+  color: #1d1a1a;
+}
+button{
+  padding: 10px;
+ margin: 10px;
+}
+h1{
+  margin: 5px;
+  background: pink;
+}
