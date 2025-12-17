@@ -23,3 +23,4 @@ const [num , SetNum]= useState({user:"garuv", age:20});
 }
 
 export default batch_management
+
